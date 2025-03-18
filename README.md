@@ -7,9 +7,7 @@ Download the launcher. Link to the latest version here: https://github.com/jdhfk
 If you are from China you also need https://nodejs.org/
 If you are from China you need to use start_tsinghua.bat and clone from Gitlab in addition to using the tsinghua pypi mirror in the launcher too.
 
-Once you've downloaded and unpacked the file you can run start.bat . Initially it will install our own copies of git and python, so you will need to wait for a moment before the installer itself comes up :Okay: 
-
- Any time you want to open the app you can run on start.bat.
+After downloading and extracting the installer-2.0.zip, put the extracted file in the root directory of the disk, open the installer-2.0 file and run start.bat. Initially it will install our own copy of git and python, so you need to wait a moment for the installer itself to appear: Okay
 
 IMPORTANT
 DO NOT SKIP THE TUTORIAL ONCE YOU ENTER THE APP! THIS IS NOT A JOKE IT WILL NOT WORK WITHOUT YOU COMPLETING THE TUTORIAL!
