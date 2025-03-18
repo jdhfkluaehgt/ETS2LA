@@ -23,7 +23,4 @@ WARNING
 Anything outside of the Base tag in the plugins page is not guaranteed to work nor will they get support. Base is what is shown in all of the videos on all of the channels.
 
 TIP
-You can go into the settings and under the Global category and the User Interface tab you can change the language if your own is available. If you want to help translate get the role from ⁠roles and then head to ⁠无访问权限.
-
-TIP
 You can go into the settings and under the Global category in the Miscellaneous tab you can change the app to use the legacy window mode (uncheck Frameless). This is useful if you can't move the window.
