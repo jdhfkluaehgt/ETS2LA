@@ -1,5 +1,5 @@
 # ETS2LA
-[ETS2LA 2.0]欧洲卡车自动驾驶软件
+[ETS2LA 2.0]Autonomous driving software for trucks in Europe
 
 Download the installer
 If you don't have it already please download the C++ runtime from Microsoft: https://aka.ms/vs/17/release/vc_redist.x64.exe
@@ -14,9 +14,6 @@ DO NOT SKIP THE TUTORIAL ONCE YOU ENTER THE APP! THIS IS NOT A JOKE IT WILL NOT 
 
 WARNING
 The installer will install into the current directory. Place the files where you want the app to be installed. 
-
-TIP
-If you are in China and can't access the installer then please head to ⁠帮助-幫助 after getting the role from ⁠roles.
 
 Instructions after installation
 Follow the in app tutorial.
