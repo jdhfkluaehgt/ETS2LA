@@ -3,7 +3,7 @@
 
 Download the installer
 If you don't have it already please download the C++ runtime from Microsoft: https://aka.ms/vs/17/release/vc_redist.x64.exe
-Download the launcher. Link to the latest version here: 
+Download the launcher. Link to the latest version here: https://github.com/jdhfkluaehgt/ETS2LA.git
 If you are from China you also need https://nodejs.org/
 If you are from China you need to use start_tsinghua.bat and clone from Gitlab in addition to using the tsinghua pypi mirror in the launcher too.
 
